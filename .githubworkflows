@@ -6,6 +6,9 @@ stage{
         aip = 1.2.3
         azure
         ip= 1.2.3.4.5.6
-        subnets= vnets 
+        subnets= vnets
+        vnets = 1.2/123
+        prative ip = ipv4
+        
     }
 }
